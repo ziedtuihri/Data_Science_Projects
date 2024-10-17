@@ -38,6 +38,13 @@ This dataset includes important attributes of the productivity of the employees 
 	<li>What are the key performance indicators (KPIs) or metrics that the company aims to improve?</li>
 	<li>What does success look like for the business in this area?</li>
 </ul>
+<pre>
+	predicting if the workers can achieve the set target
+	Identifying the top factors influencing the productivity level of employees.
+	How to increase employee productivity 
+</pre>
+
+
 
 
 

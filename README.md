@@ -10,7 +10,7 @@ This dataset includes important attributes of the productivity of the employees 
 <hr>
 
 <h3>Variable Information</h3>
-
+<pre>
 01	date			          :	Date in MM-DD-YYYY<br>
 02	day			            :	Day of the Week<br>
 03	quarter			        :	A portion of the month. A month was divided into four quarters<br>
@@ -25,8 +25,9 @@ This dataset includes important attributes of the productivity of the employees 
 12	incentive	        	:	Represents the amount of financial incentive (in BDT) that enables or motivates a particular course of action.<br>
 13	idle_time	        	:	The amount of time when the production was interrupted due to several reasons<br>
 14	idle_men	        	:	The number of workers who were idle due to production interruption<br>
-15	actual_productivity	:	The actual % of productivity that was delivered by the workers. It ranges from 0-1.<br>
-<h>
+15	actual_productivity	:	The actual % of productivity that was delivered by the workers. It ranges from 0-1.<be>
+	</pre>
+<hr>
 
 <h3>Associated tasks</h3>
 	- Regression: 

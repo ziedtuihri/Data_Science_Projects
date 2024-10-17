@@ -44,7 +44,12 @@ This dataset includes important attributes of the productivity of the employees 
 	How to increase employee productivity and predicting if we have a low or medium or hight productivity
 </pre>
 
+<h3> Data Science Objective Success: </h3>
 
+<pre>
+Achieve a model precision of 80% or higher.
+Reduce false positives	
+</pre>
 
 
 

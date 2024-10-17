@@ -32,3 +32,12 @@ This dataset includes important attributes of the productivity of the employees 
 		Predication of the productivity performance of the working teams in their factories.
   <hr>
 <h3> Business Understanding </h3>
+
+<ul>
+	<li>What are the major challenges the company is facing?</li>
+	<li>What are the key performance indicators (KPIs) or metrics that the company aims to improve?</li>
+	<li>What does success look like for the business in this area?</li>
+</ul>
+
+
+

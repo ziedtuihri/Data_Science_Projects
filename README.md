@@ -41,7 +41,7 @@ This dataset includes important attributes of the productivity of the employees 
 <pre>
 	predicting if the workers can achieve the set target
 	Identifying the top factors influencing the productivity level of employees.
-	How to increase employee productivity 
+	How to increase employee productivity and predicting if we have a low or medium or hight productivity
 </pre>
 
 

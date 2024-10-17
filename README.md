@@ -1,5 +1,3 @@
-# Data_Science_Projects
-
 <h3> Garment productivit </h3>
 
 

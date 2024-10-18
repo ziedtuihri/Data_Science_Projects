@@ -51,6 +51,10 @@ This dataset includes important attributes of the productivity of the employees 
 	predicting if the workers can achieve the set target
 	Identifying the top factors influencing the productivity level of employees.
 	How to increase employee productivity and predicting if we have a low or medium or hight productivity
+	Reduce interruptions and minimize downtime.
+	Optimize resource utilization to reduce costs.
+	Improve team and resourceplanning.
+	Reduce production time to deliver orders faster.
 </pre>
 
 <h3> Data Science Objective Success: </h3>
@@ -58,6 +62,12 @@ This dataset includes important attributes of the productivity of the employees 
 <pre>
 Achieve a model precision of 80% or higher.
 Reduce false positives	
+Forecast team productivity using available data (headcount, SMV, incentives, etc.).
+Identify inefficiencies to reduce downtime.
+Optimize schedules to maximize productivity while minimizing costs.
+Segment teams by performance to adjust resources and incentives.
+Anticipate production interruptions and propose corrective actions.
+Forecast order volumes to improve planning.
 </pre>
 
 

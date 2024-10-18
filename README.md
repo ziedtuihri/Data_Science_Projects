@@ -60,5 +60,6 @@ Achieve a model precision of 80% or higher.
 Reduce false positives	
 </pre>
 
-<a href='./data/dataProductivity Prediction of Garment Employeese.csv'>link</a>
+
+
 

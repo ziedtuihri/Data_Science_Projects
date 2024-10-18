@@ -31,6 +31,15 @@ This dataset includes important attributes of the productivity of the employees 
 	- Regression: 
 		Predication of the productivity performance of the working teams in their factories.
   <hr>
+
+<h3>CRISP-DM the model that I'm using in this project:</h3>
+
+<img src="./images/ml-lifecycle-crism-dm.jpg">
+<br>
+<img src="./images/6-Figure3-1.png">
+<br>
+<img src="./images/phases-and-generic-tasks-of-CRISP-DM.png">
+
 <h3> Business Understanding </h3>
 
 <ul>
